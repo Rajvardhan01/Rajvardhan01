@@ -5,17 +5,6 @@ Aspiring Artificial Intelligence and Data Science professional with a strong fou
 
 ---
 
-👁️ Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=Rajvardhan01
-
----
-
-📊 **GitHub Stats**  
-
-![Rajvardhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajvardhan01&show_icons=true)
-
----
-
 🎓 **Education**  
 **B.Tech in Artificial Intelligence and Data Science (2022–2026)**  
 Vishwakarma Institute of Technology, Pune  
@@ -48,13 +37,15 @@ Developed a CNN-based deep learning model using EfficientNet-B0 to classify reti
 Achieved 96% accuracy with data augmentation and hyperparameter tuning.  
 Built an interactive web interface using Streamlit for real-time predictions.  
 
-💰 **Expense Tracker (Spring Boot + MySQL)**  
-Designed and developed a backend-driven finance management system.  
-Implemented REST APIs, authentication, monthly reports, and data export functionality.  
 
 🌐 **Shrikrishna Arogyadham Website (Sponsored Project)**  
 Developed a dynamic website using Angular and Firestore.  
 Integrated a content management system for medical and educational courses.  
+
+
+💰 **Expense Tracker (Spring Boot + MySQL)**  
+Designed and developed a backend-driven finance management system.  
+Implemented REST APIs, authentication, monthly reports, and data export functionality.  
 
 ---
 
