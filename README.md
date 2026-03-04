@@ -57,14 +57,15 @@ Implemented REST APIs, authentication, monthly reports, and data export function
 
 ---
 
-📫 **Connect With Me**  
+## 📫 Connect With Me  
 
-Open to internships, full‑time roles, and collaborations in AI, ML, and full‑stack development.
+🚀 Open to internships, full-time roles, and collaborations in AI, Machine Learning, and Full-Stack Development.  
 
-Phone: +91 9322740073
-Email: rajvardhansanagar@gmail.com
-GitHub: https://github.com/Rajvardhan01
-LinkedIn: https://www.linkedin.com/in/rajvardhan-sangar-47bb152a8/
+📱 **Phone:** +91 9322740073  
+📧 **Email:** rajvardhansanagar@gmail.com  
+🌐 **GitHub:** [Rajvardhan01](https://github.com/Rajvardhan01)  
+💼 **LinkedIn:** [Rajvardhan Sangar](https://www.linkedin.com/in/rajvardhan-sangar-47bb152a8/)  
+
 ---
 
 ✨ Always learning, building, and striving to grow as an AI & Full Stack Developer.
