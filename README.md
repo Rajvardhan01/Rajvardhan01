@@ -6,13 +6,13 @@ Aspiring Artificial Intelligence and Data Science professional with a strong fou
 ---
 
 👁️ Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+![Profile Views](https://komarev.com/ghpvc/?username=Rajvardhan01
 
 ---
 
 📊 **GitHub Stats**  
 
-![Rajvardhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Rajvardhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajvardhan01&show_icons=true)
 
 ---
 
