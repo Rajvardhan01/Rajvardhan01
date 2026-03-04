@@ -1,50 +1,77 @@
-## Hi 👋 I'm Rajvardhan Sangar  
+# Rajvardhan Sangar 👨‍💻  
 
-🎓 Final Year B.Tech Student in **Artificial Intelligence & Data Science**  
-🏫 Vishwakarma Institute of Technology, Pune  
-
-💻 Full Stack Developer | 🤖 Machine Learning Enthusiast  
-🚀 Passionate about building real-world applications using AI & Web Technologies  
+🚀 **About Me**  
+Aspiring Artificial Intelligence and Data Science professional with a strong foundation in full-stack development and machine learning. Passionate about building intelligent systems and scalable web applications that solve real-world problems and create meaningful impact.
 
 ---
 
-## 🛠 Tech Stack  
+👁️ Profile Views  
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
 
-**Languages:**  
-Java | Python | C | C++ | JavaScript  
+---
 
-**Web Technologies:**  
-React.js | Next.js | HTML | CSS | Tailwind CSS  
+📊 **GitHub Stats**  
 
-**Backend & Databases:**  
-Spring Boot | Servlet | JSP | MySQL | MongoDB  
+![Rajvardhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
-**Machine Learning:**  
+---
+
+🎓 **Education**  
+**B.Tech in Artificial Intelligence and Data Science (2022–2026)**  
+Vishwakarma Institute of Technology, Pune  
+
+---
+
+💻 **Technical Skills**  
+
+**Programming Languages:**  
+Java | C | C++ | Python | JavaScript  
+
+**Web Development:**  
+React.js | Next.js | HTML5 | CSS3 | Tailwind CSS | Spring Boot | Servlet | JSP  
+
+**Machine Learning & AI:**  
 TensorFlow | Scikit-learn | Pandas | NumPy | Matplotlib  
 
-**Core Subjects:**  
-DSA | OOP | DBMS | OS | Computer Networks  
+**Databases:**  
+MySQL | MongoDB  
+
+**Core Concepts:**  
+Data Structures & Algorithms | OOP | DBMS | Operating Systems | Computer Networks  
 
 ---
 
-## 🚀 Featured Projects  
+🏆 **Projects**  
 
-🔹 **Diabetic Retinopathy Detection System**  
-CNN-based deep learning model using EfficientNet-B0 achieving 96% accuracy.  
-🔗 _Project link coming soon_  
+🩺 **Diabetic Retinopathy Detection System**  
+Developed a CNN-based deep learning model using EfficientNet-B0 to classify retinal images.  
+Achieved 96% accuracy with data augmentation and hyperparameter tuning.  
+Built an interactive web interface using Streamlit for real-time predictions.  
 
-🔹 **Expense Tracker (Spring Boot + MySQL)**  
-Backend-driven expense management system with REST APIs and authentication.  
-🔗 _Project link coming soon_  
+💰 **Expense Tracker (Spring Boot + MySQL)**  
+Designed and developed a backend-driven finance management system.  
+Implemented REST APIs, authentication, monthly reports, and data export functionality.  
+
+🌐 **Shrikrishna Arogyadham Website (Sponsored Project)**  
+Developed a dynamic website using Angular and Firestore.  
+Integrated a content management system for medical and educational courses.  
 
 ---
 
-## 📫 Connect With Me  
+📚 **Publications & Achievements**  
+
+🏅 Ranked 1st in SSC Examination (School Level)  
+🏅 Participated in Smart India Hackathon  
+🏅 Java Full Stack Development Certification  
+
+---
+
+📫 **Connect With Me**  
 
 📧 Email: rajvardhansanagar@gmail.com  
-💼 LinkedIn: _[LinkedIn](https://www.linkedin.com/in/rajvardhan-sangar-47bb152a8/)_  
-
+💼 LinkedIn: https://linkedin.com/in/YOUR_LINK  
+🌐 GitHub: https://github.com/YOUR_USERNAME  
 
 ---
 
-✨ Always eager to learn, build, and grow as a developer.
+✨ Always learning, building, and striving to grow as an AI & Full Stack Developer.
